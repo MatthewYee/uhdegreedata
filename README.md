@@ -14,7 +14,7 @@ Provide the following scripts in your file:
 # Usage
 
 Here are example calls to the analytic functions
-'''
+```
 <script>
     console.log("Total Degrees", totalDegrees(uhdata));
     console.log("Percentage Hawaiian", percentagehawaiian(uhdata));
@@ -24,7 +24,7 @@ Here are example calls to the analytic functions
     console.log("Max Degrees", maxDegrees(uhdata));
     console.log("Doctoral Degree Programs", doctoralDegreePrograms(uhdata));
 </script>
-'''
+```
 
 Consult the uhdatafunctions.js file for more details on these functions
 
