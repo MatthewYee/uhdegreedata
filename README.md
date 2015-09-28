@@ -5,11 +5,11 @@ Provides seven functions computing analytics over the [Hawaii Open Dataset for t
 # Installation
 
 Provide the following scripts in your file:
-'''
+```
 <script src="//philipmjohnson.github.io/ics314f15/morea/underscore/underscore-min.js"></script>
 <script src="//philipmjohnson.github.io/ics314f15/morea/underscore/uhdata.js"></script>
 <script src="uhdatafunctions.js"></script>
-'''
+```
 
 # Usage
 
